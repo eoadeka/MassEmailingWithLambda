@@ -1,5 +1,8 @@
 # MASS EMAILING WITH LAMBDA
 
+# Blog
+
+
 ## Services
 - Lambda
 - SES
@@ -7,7 +10,7 @@
 - CloudWatch
 
 ## Architecture
-
+![Architecture](images/architecture.png)
 
 ## Steps
 ### 1. Create an IAM role
